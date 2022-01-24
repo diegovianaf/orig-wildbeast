@@ -283,9 +283,9 @@ p {
 }
 
 .highlight {
+  align-self: end;
   color: var(--color-primary);
-  font-size: .875rem;
-  max-width: 16rem;
+  font-size: .95rem;
 }
 
 .quote,
